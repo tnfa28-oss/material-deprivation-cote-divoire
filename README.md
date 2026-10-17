@@ -22,8 +22,11 @@ EHCVM 2021 (Côte d'Ivoire) : lien vers la page de l'enquête (https://microdata
 - ACM : trois groupes de ménages (aisés, intermédiaires, en forte privation)
 - AFC : l'axe 1 explique environ 90 % de l'inertie ; forte correspondance entre
   conditions de vie et consommation
+  
 
-![Cercle des corrélations (ACP)](COLLER-LA-CAPTURE-ICI)
+![Cercle des corrélations (ACP)](ACP.jpeg)
+
+
 
 ## Mon rôle
 J'ai réalisé l'ensemble des analyses (ACP, ACM, AFC) et produit les graphiques.
@@ -41,3 +44,6 @@ Overlap between monetary poverty and multidimensional material deprivation in C�
 d'Ivoire (EHCVM 2021), using PCA, MCA and correspondence analysis. Households' living
 conditions and consumption levels line up strongly along the first factorial axis.
 I carried out all the analyses (SPAD, R).
+
+
+
